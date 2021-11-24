@@ -1,0 +1,34 @@
+{
+  "name": "ronbpost",
+  "version": "1.0.0",
+  "description": "Get latest post from Routine of Nepal banda.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoominBot/ronbpost.git"
+  },
+  "keywords": [
+    "ronb",
+    "updates"
+  ],
+  "author": "DevAndromeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoominBot/ronbpost/issues"
+  },
+  "homepage": "https://github.com/MoominBot/ronbpost#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.6"
+  }
+}
