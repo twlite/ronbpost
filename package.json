@@ -1,6 +1,6 @@
 {
   "name": "ronbpost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get latest post from Routine of Nepal banda.",
   "main": "index.js",
   "types": "index.d.ts",

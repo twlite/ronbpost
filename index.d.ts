@@ -27,5 +27,5 @@ declare module "ronbpost" {
         };
     }
 
-    export default function FetchRONBPost(): RONBPost;
+    export default function ronbpost(): Promise<RONBPost>;
 }
